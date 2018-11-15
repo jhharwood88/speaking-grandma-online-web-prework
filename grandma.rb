@@ -1,11 +1,6 @@
 # Write a speak_to_grandma method.
 
-dog = "maybe hungry"
-
-if dog == "hungry"
-  puts "DOG Hungry"
-else
-  puts "Dog not Hungry"
+def speak_to_grandma(speak_to_grandma)
 end
 
 # Whatever you say to grandma, she should respond with
