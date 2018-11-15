@@ -2,7 +2,11 @@
 
 dog = "hungry"
 
-if dog = 
+if dog == "hungry"
+  puts "DOG Hungry"
+else
+  puts "Dog not Hungry"
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
