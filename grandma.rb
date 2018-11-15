@@ -1,10 +1,8 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma(speak_to_grandma="Hi!")
-  puts speak_to_grandma
+dog = "hungry"
 
-  
-end
+if dog = 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
