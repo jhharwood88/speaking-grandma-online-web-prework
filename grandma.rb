@@ -3,7 +3,7 @@
 def speak_to_grandma(speak_to_grandma="Hi!")
    speak_to_grandma     
    if speak_to_grandma == "Hi!"
-    speak_to_grandma
+    print "A"
   else
     speak_to_grandma
 end
