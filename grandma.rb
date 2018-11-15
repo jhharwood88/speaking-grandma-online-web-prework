@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-dog = "hungry"
+dog = "maybe hungry"
 
 if dog == "hungry"
   puts "DOG Hungry"
