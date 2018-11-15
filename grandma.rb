@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma(speak_to_grandma="Hi!")
+def speak_to_grandma(speak_to_grandma)
    speak_to_grandma     
    if speak_to_grandma == "Hi!"
     print "A"
