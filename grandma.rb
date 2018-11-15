@@ -6,6 +6,7 @@ def speak_to_grandma(speak_to_grandma="Hi!")
     print "A"
   else
     speak_to_grandma
+  end
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
